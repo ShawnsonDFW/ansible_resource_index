@@ -4,6 +4,8 @@
 
 ### Documentation and Code
 
+------
+
 
 
 #### **Ansible Documentation**
@@ -25,6 +27,8 @@ There is a staggering amount of code and content available on github to leverage
 
 
 ### Education Resources (Mostly Free)
+
+------
 
 
 
@@ -61,6 +65,10 @@ As with any topic, there is a ton of ansible educational content on youtube.com.
 
 
 ### **Stay Current**
+
+------
+
+
 
 #### **Ansible Google Groups**
 
