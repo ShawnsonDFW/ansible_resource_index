@@ -8,25 +8,19 @@
 
 #### **Ansible Documentation**
 
-THE home of official ansible, ansible tower, ansible network, and ansible galaxy documentation.  (Also includes quick start videos and installation guides.)
-
-https://docs.ansible.com/
+THE home of official ansible, ansible tower, ansible network, and ansible galaxy documentation.  (Also includes quick start videos and installation guides https://docs.ansible.com/
 
 
 
 #### **Ansible Galaxy**
 
-Ansible Galaxy is Ansible’s official hub for sharing Ansible content.  Find and share roles and collections.
-
-[galaxy.ansible.com](https://galaxy.ansible.com/home)
+Ansible Galaxy is Ansible’s official hub for sharing Ansible content.  Find and share roles and collections. [galaxy.ansible.com](https://galaxy.ansible.com/home)
 
 
 
 #### **Github.com**
 
-There is a staggering amount of code and content available on github to leverage.
-
-https://github.com/search?q=ansible
+There is a staggering amount of code and content available on github to leverage. https://github.com/search?q=ansible
 
 
 
@@ -36,9 +30,7 @@ https://github.com/search?q=ansible
 
 #### **Ansible for DevOps**
 
-Jeff Geerling is major voice within and contributor to the ansible community.  This book does a great job of walking through the fundamentals of ansible automation with code examples and tutorials.  The LeanPub version is updated frequently at no additional cost.  Cost: $10
-
-https://www.ansiblefordevops.com/
+Jeff Geerling is major voice within and contributor to the ansible community.  This book does a great job of walking through the fundamentals of ansible automation with code examples and tutorials.  The LeanPub version is updated frequently at no additional cost.  Cost: $10 https://www.ansiblefordevops.com/
 
 
 
@@ -58,17 +50,13 @@ These labs are free and interactive tutorials that are often focused on automati
 
 #### **Jeff Geerling's Ansible 101 YouTube Series**
 
-A perfect compliment to the book or as a stand-alone resource from one of the communities most respected voices.
-
-[Series Playlist Index](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
+A perfect compliment to the book or as a stand-alone resource from one of the communities most respected voices. [Series Playlist Index](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
 
 
 
 #### YouTube - General
 
-As with any topic, there is a ton of ansible educational content on youtube.com.   Also, as with any topic on youtube, quality varies wildy.
-
-https://www.youtube.com
+As with any topic, there is a ton of ansible educational content on youtube.com.   Also, as with any topic on youtube, quality varies wildy. https://www.youtube.com
 
 
 
