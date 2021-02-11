@@ -56,6 +56,9 @@ These labs are free and interactive tutorials that are often focused on automati
 
 A perfect compliment to the book or as a stand-alone resource from one of the communities most respected voices. [Series Playlist Index](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
 
+#### Getting Started with Ansible YouTube Series
+[Getting Started with Ansible - LearnLinuxTV](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
+
 #### Jinja
 [Jinja Template Documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/)
 
@@ -65,8 +68,9 @@ A perfect compliment to the book or as a stand-alone resource from one of the co
 As with any topic, there is a ton of ansible educational content on youtube.com.   Also, as with any topic on youtube, quality varies wildy. https://www.youtube.com
 
 ### Tools
-[Ansible Template Tester](https://ansible.sivel.net/test/)
-[Docs Other Tools Page](https://docs.ansible.com/ansible/latest/community/other_tools_and_programs.html)
+- [Ansible Template Tester](https://ansible.sivel.net/test/)
+- [Docs Other Tools Page](https://docs.ansible.com/ansible/latest/community/other_tools_and_programs.html)
+
 
 ### **Stay Current**
 
