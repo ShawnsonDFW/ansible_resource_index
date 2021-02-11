@@ -59,13 +59,15 @@ A perfect compliment to the book or as a stand-alone resource from one of the co
 #### Getting Started with Ansible YouTube Series
 [Getting Started with Ansible - LearnLinuxTV](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
 
-#### Jinja
-[Jinja Template Documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/)
-
 
 #### YouTube - General
 
 As with any topic, there is a ton of ansible educational content on youtube.com.   Also, as with any topic on youtube, quality varies wildy. https://www.youtube.com
+
+
+### Jinja
+[Jinja Template Documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/)
+
 
 ### Tools
 - [Ansible Template Tester](https://ansible.sivel.net/test/)
