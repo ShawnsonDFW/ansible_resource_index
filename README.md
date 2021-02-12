@@ -3,11 +3,11 @@ This is meant to be a living document and is not even close to complete.  It wil
 
 
 
+------
+
 ### Documentation and Code
 
 ------
-
-
 
 #### **Ansible Documentation**
 
@@ -27,11 +27,11 @@ There is a staggering amount of code and content available on github to leverage
 
 
 
+------
+
 ### Education Resources (Mostly Free)
 
 ------
-
-
 
 #### Books
 [**Ansible for DevOps**]( https://www.ansiblefordevops.com/) - Jeff Geerling is major voice within and contributor to the ansible community.  This book does a great job of walking through the fundamentals of ansible automation with code examples and tutorials.  The LeanPub version is updated frequently at no additional cost.  Cost: $10
@@ -56,29 +56,57 @@ These labs are free and interactive tutorials that are often focused on automati
 
 A perfect compliment to the book or as a stand-alone resource from one of the communities most respected voices. [Series Playlist Index](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
 
+
+
 #### Getting Started with Ansible YouTube Series
+
 [Getting Started with Ansible - LearnLinuxTV](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
+
 
 
 #### YouTube - General
 
 As with any topic, there is a ton of ansible educational content on youtube.com.   Also, as with any topic on youtube, quality varies wildy. https://www.youtube.com
 
-
-### Jinja
-[Jinja Template Documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/)
-
+------
 
 ### Tools
-- [Ansible Template Tester](https://ansible.sivel.net/test/)
-- [Docs Other Tools Page](https://docs.ansible.com/ansible/latest/community/other_tools_and_programs.html)
 
+------
+
+#### Tools for Validating Playbooks
+
+- [Ansible Lint](https://docs.ansible.com/ansible-lint/index.html) - a highly configurable linter for Ansible playbooks.
+- [Ansible Review](https://github.com/willthames/ansible-review) - an extension of Ansible Lint designed for code review.
+- [Molecule](https://molecule.readthedocs.io/en/latest/) is a testing framework for Ansible plays and roles.
+- [yamllint](https://yamllint.readthedocs.io/en/stable/) is a command-line utility to check syntax validity including key repetition and indentation issues.
+
+
+
+#### Other Tools
+
+- [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - takes the output of Ansible’s fact gathering and converts it into a  static HTML overview page containing system configuration information.
+- [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - visually displays inventory inheritance hierarchies and at what level a variable is defined in inventory.
+- [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles.
+- [Ansible Shell](https://github.com/dominis/ansible-shell) - an interactive shell for Ansible with built-in tab completion for all the modules.
+- [Ansible Silo](https://github.com/groupon/ansible-silo) - a self-contained Ansible environment by Docker.
+- [Ansigenome](https://github.com/nickjj/ansigenome) - a command line tool designed to help you manage your Ansible roles.
+- [ARA](https://github.com/openstack/ara) - records Ansible playbook runs and makes the recorded data available  and intuitive for users and systems by integrating with Ansible as a  callback plugin.
+- [Awesome Ansible](https://github.com/jdauphant/awesome-ansible) - a collaboratively curated list of awesome Ansible resources.
+- [AWX](https://github.com/ansible/awx) - provides a web-based user interface, REST API, and task engine built  on top of Ansible. AWX is the upstream project for Red Hat Ansible  Tower, part of the Red Hat Ansible Automation subscription.
+- [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - uses the [Mitogen](https://github.com/dw/mitogen/) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
+- [nanvault](https://github.com/marcobellaccini/nanvault) - a standalone tool to encrypt and decrypt files in the Ansible Vault format, featuring UNIX-style composability.
+- [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - uses Ansible to configure an environment that provides the support of [OpsTools](https://wiki.centos.org/SpecialInterestGroup/OpsTools), namely centralized logging and analysis, availability monitoring, and performance monitoring.
+- [TD4A](https://github.com/cidrblock/td4a) - a template designer for automation. TD4A is a visual design aid for  building and testing jinja2 templates. It will combine data in yaml  format with a jinja2 template and render the output.
+- [PHP-Ansible](https://github.com/maschmann/php-ansible) - an object oriented Ansible wrapper for PHP.
+
+
+
+------
 
 ### **Stay Current**
 
 ------
-
-
 
 #### **Ansible Google Groups**
 
