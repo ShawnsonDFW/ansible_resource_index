@@ -36,6 +36,18 @@ There is a staggering amount of code and content available on github to leverage
 #### Books
 [**Ansible for DevOps**]( https://www.ansiblefordevops.com/) - Jeff Geerling is major voice within and contributor to the ansible community.  This book does a great job of walking through the fundamentals of ansible automation with code examples and tutorials.  The LeanPub version is updated frequently at no additional cost.  Cost: $10
 
+[Ansible Configuration Management - Second Edition](https://www.packtpub.com/networking-and-servers/ansible-configuration-management-second-edition)
+
+[Ansible Playbook Essentials](https://www.packtpub.com/networking-and-servers/ansible-playbook-essentials)
+
+[Ansible - Up and Running](http://shop.oreilly.com/product/0636920035626.do)
+
+[Learning Ansible](https://www.packtpub.com/networking-and-servers/learning-ansible)
+
+[Learning Ansible 2 - Second Edition](https://www.packtpub.com/networking-and-servers/learning-ansible-2-second-edition)
+
+[Mastering Ansible - Second Edition](https://www.packtpub.com/networking-and-servers/mastering-ansible-second-edition)
+
 
 
 #### **WWT Labs**
