@@ -33,8 +33,7 @@ There is a staggering amount of code and content available on github to leverage
 
 
 #### Books
-**Ansible for DevOps**
-Jeff Geerling is major voice within and contributor to the ansible community.  This book does a great job of walking through the fundamentals of ansible automation with code examples and tutorials.  The LeanPub version is updated frequently at no additional cost.  Cost: $10 https://www.ansiblefordevops.com/
+[**Ansible for DevOps**]( https://www.ansiblefordevops.com/) - Jeff Geerling is major voice within and contributor to the ansible community.  This book does a great job of walking through the fundamentals of ansible automation with code examples and tutorials.  The LeanPub version is updated frequently at no additional cost.  Cost: $10
 
 
 
